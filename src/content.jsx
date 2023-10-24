@@ -11,7 +11,7 @@ function content() {
                 <span className="leading-[36px] text-[16.16px] drop-shadow-[0px_4px_4px_rgba(0,_0,_0,_0.25)]">
                   Prepare for an epic showdown of strategy, intuition, and sheer
                   luck as you embark on this timeless classic. Are you ready to
-                  unleash your inner champion with cunning moves?
+                  unleash your inner champion with cunning moves??
                 </span>
               </p>
             </div>
